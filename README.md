@@ -2,8 +2,10 @@
 
 ## PRUEBA DE USO EN WSL
 
-Ejecitar un Hello World! usando C.
+Ejecutar un Hello World! usando C.
 
 - [x] SUCCESSFULLY ACHIEVED.
+
+MADE BY JOSE_MINUCHE.
 
 
